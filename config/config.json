@@ -1,0 +1,7 @@
+{
+    "DB_USERNAME" : "nura",
+    "DB_PASSWORD" : "qwerty_21#",
+    "DB_PORT" : "3306",
+    "DB_HOST" : "127.0.0.1",
+    "DB_NAME" : "todo_list"
+}
